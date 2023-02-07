@@ -15,6 +15,7 @@ This is the official implementation of "Cross-stage Multi-scale Interaction Netw
 ## Run MoADNet code
 - Train <br>
   run `python train.py` <br>
+  \# put pretrained models to the pretrained folder
   \# set '--train-root' to your training dataset folder
   
 - Test <br>
