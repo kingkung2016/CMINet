@@ -25,7 +25,7 @@ This is the official implementation of "Cross-stage Multi-scale Interaction Netw
 ****
 
 ## Pretrained models
-  - The pretrained models can be downloaded in [Baidu Cloud](https://pan.baidu.com/s/1SXAC1DtgeuyQ_WxlyI9VeQ) (fetach code is moad). Then put the pretrained models such as 'resnet_50.pth' in the pretrained folder.
+  - The pretrained models can be downloaded in [Baidu Cloud](https://pan.baidu.com/s/1u5dv6crd7e4OwM9hBdooWg) (fetach code is pcmi). Then put the pretrained models such as 'resnet_50.pth' in the pretrained folder.
 ****
 
 ## Saliency maps
