@@ -6,13 +6,13 @@ This is the official implementation of "Cross-stage Multi-scale Interaction Netw
 
 ## Content
 * [Run CMINet code](#Run-CMINet-code)
-* [Pretained models](#Pretained-models)
+* [Pretrained models](#Pretrained-models)
 * [Saliency maps](#Saliency-maps)
 * [Evaluation tools](#Evaluation-tools)
 * [Citation](#Citation)
 ****
 
-## Run MoADNet code
+## Run CMINet code
 - Train <br>
   run `python train.py` <br>
   \# put pretrained models to the pretrained folder
@@ -22,6 +22,10 @@ This is the official implementation of "Cross-stage Multi-scale Interaction Netw
   run `python test.py` <br>
   \# set '--test-root' to your test dataset folder <br>
   \# set '--ckpt' as the correct checkpoint <br>
+****
+
+## Pretrained models
+  - The saliency maps can be approached in [Baidu Cloud](https://pan.baidu.com/s/1SXAC1DtgeuyQ_WxlyI9VeQ) (fetach code is moad). Note that the results provided in paper are the average values after several training times.
 ****
 
 ## Saliency maps
