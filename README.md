@@ -15,7 +15,7 @@ This is the official implementation of "Cross-stage Multi-scale Interaction Netw
 ## Run CMINet code
 - Train <br>
   run `python train.py` <br>
-  \# put pretrained models to the pretrained folder
+  \# put pretrained models to the pretrained folder <br>
   \# set '--train-root' to your training dataset folder
   
 - Test <br>
