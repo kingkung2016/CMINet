@@ -33,15 +33,17 @@ This is the official implementation of "Cross-stage Multi-scale Interaction Netw
 
 ## Citation
 ```
-@ARTICLE{jin2022moadnet,
-  author={Jin, Xiao and Yi, Kang and Xu, Jing},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={MoADNet: Mobile Asymmetric Dual-Stream Networks for Real-Time and Lightweight RGB-D Salient Object Detection}, 
+@ARTICLE{yi2022cross,
+  author={Yi, Kang and Zhu, Jinchao and Guo, Fu and Xu, Jing},
+  journal={IEEE Signal Processing Letters}, 
+  title={Cross-Stage Multi-Scale Interaction Network for RGB-D Salient Object Detection}, 
   year={2022},
-  volume={32},
-  number={11},
-  pages={7632-7645}
+  volume={29},
+  number={},
+  pages={2402-2406},
+  doi={10.1109/LSP.2022.3223599}
 }
+
 ```
 ****
 
