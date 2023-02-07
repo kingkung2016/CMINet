@@ -29,7 +29,7 @@ This is the official implementation of "Cross-stage Multi-scale Interaction Netw
 ****
 
 ## Saliency maps
-  - The saliency maps can be approached in [Baidu Cloud](https://pan.baidu.com/s/1SXAC1DtgeuyQ_WxlyI9VeQ) (fetach code is moad). Note that the results provided in paper are the average values after several training times.
+  - The saliency maps can be approached in [Baidu Cloud](https://pan.baidu.com/s/1SXAC1DtgeuyQ_WxlyI9VeQ) (fetach code is moad). Note that all testing results are provided not only including those listed in the paper.
 ****
 
 ## Evaluation tools
